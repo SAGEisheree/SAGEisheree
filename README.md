@@ -1,4 +1,3 @@
 ## Breaking Learning Fixing Building
-<img width="1344" height="768" alt="laptopboy" src="https://github.com/user-attachments/assets/a045a99c-3981-4e1e-aa2c-abc0c71d1836" />
-
+![nazib-hamdan-ngoding](https://github.com/user-attachments/assets/50f41ccc-1e29-41e5-8207-f51d89e651ea)
 Currently learning basic Web development 
