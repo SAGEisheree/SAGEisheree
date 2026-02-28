@@ -13,7 +13,7 @@ I love building things to simplify life.
    I couldnt find any simple thing to store JOURNAL(kind of diary) so i made one. You can assign colors to days on calandar according to mood and add some text too.
 
 - ### SOULDEX
-   Git repo - [Daydex](https://github.com/SAGEisheree/souldex) 
+   Git repo - [Souldex](https://github.com/SAGEisheree/souldex) 
    
    An app which lets you find your personality using AI based on a quiz .  [  STILL IN BUILDING  PHASE  ]
 
