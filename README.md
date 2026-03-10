@@ -24,4 +24,8 @@ I love building things to simplify life.
 
 ---
 
-## 
+## What i know till now
+- Languages: C / C++, JS , Python, html|css
+- Frontend : React, Tailwind, Javascript    (basics)
+- Other tools : Daisy UI, Github, Postman,
+- Backend : MongoDb, Nodejs   (basics)
