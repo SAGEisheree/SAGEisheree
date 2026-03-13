@@ -1,7 +1,5 @@
 #  Hi , I am Abhinav
 
-Online I go by my minecraft username **SAGE**
-
 I love building things to simplify life.
 
 
