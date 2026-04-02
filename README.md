@@ -1,8 +1,8 @@
-#  Hi , I am Abhinav
+#  Hi , I am SAGE
 
 I love building things to simplify life.
 
-
+### Currently learning backend stuff + DSA
 ---
 ## Projects 
 
