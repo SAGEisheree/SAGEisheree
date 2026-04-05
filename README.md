@@ -4,6 +4,28 @@ I love building things to simplify life.
 
 ### Currently learning backend stuff + DSA
 ---
+
+```text
+SAGE@github -------------------------------------------
+. OS: ....................................... Debian 13 (Trixie)
+. Uptime: ................................... 18 years, 9 months
+. Kernel: ................................... CS Student @ India
+. IDE: ................................... VS Code, Vim, Pycharm
+.
+- Languages: .....................C / C++, JS , Python, html|css
+. Frontend :............ React, Tailwind, Javascript    (basics)
+. Other tools :....................... Daisy UI, Github, Postman
+. Backend :.......................... MongoDb, Nodejs   (basics)
+.
+- Contact -------------------------------------------------
+. Email.Personal: ...........................     -
+. X handle: .................................. @SAGE@7788
+.
+- GitHub Stats --------------------------------------------
+. Repos: .................................... 12 | Stars: 5
+. Commits: .................................. 150+
+```
+
 ## Projects 
 
  - ### DAYDEX
@@ -21,9 +43,3 @@ I love building things to simplify life.
    An app which lets you find your personality using AI based on a quiz and reveals your strengths and weakness to improve yourself.
 
 ---
-
-## What i know till now
-- Languages: C / C++, JS , Python, html|css
-- Frontend : React, Tailwind, Javascript    (basics)
-- Other tools : Daisy UI, Github, Postman,
-- Backend : MongoDb, Nodejs   (basics)
