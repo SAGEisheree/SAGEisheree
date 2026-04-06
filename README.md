@@ -2,28 +2,38 @@
 
 I love building things to simplify life.
 
-### Currently learning backend stuff + DSA
----
+```javascript
+/**
+ * System Status: SAGE
+ * Role: CS Student @ India
+ */
+ 
+const developer = {
+  os: "Debian 13 (Trixie)",
+  uptime: "18 years, 9 months", // Calculated from birth? Nice.
+  kernel: "CS Student @ India",
+  ide: ["VS Code", "Vim", "PyCharm"],
+  
+  stack: {
+    languages: ["C|C++", "JavaScript", "Python", "HTML | CSS"],
+    frontend:  ["React", "Tailwind", "JavaScript (Basics)"],
+    backend:   ["MongoDB", "Node.js (Basics)", "FastAPI],
+    tools:     ["Daisy UI", "GitHub", "Postman"]
+  },
 
-```text
-SAGE@github -------------------------------------------
-. OS: ....................................... Debian 13 (Trixie)
-. Uptime: ................................... 18 years, 9 months
-. Kernel: ................................... CS Student @ India
-. IDE: ................................... VS Code, Vim, Pycharm
-.
-- Languages: .....................C / C++, JS , Python, html|css
-. Frontend :............ React, Tailwind, Javascript    (basics)
-. Other tools :....................... Daisy UI, Github, Postman
-. Backend :.......................... MongoDb, Nodejs   (basics)
-.
-- Contact -------------------------------------------------
-. Email.Personal: ...........................     -
-. X handle: .................................. @SAGE@7788
-.
-- GitHub Stats --------------------------------------------
-. Repos: .................................... 12 | Stars: 5
-. Commits: .................................. 150+
+  contact: {
+    email: "  -.-   ",
+    x: "@SAGE@7788"
+  },
+
+  stats: {
+    repos: 12,
+    stars: 5,
+    commits: "150+"
+  }
+};
+
+console.log(`Hello! I'm currently trying to learn fullstack for now.`);
 ```
 
 ## Projects 
