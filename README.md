@@ -1,39 +1,31 @@
 #  Hi , I am SAGE
 
-I love building things to simplify life.
-
 ```javascript
-/**
- * System Status: SAGE
- * Role: CS Student @ India
- */
- 
 const developer = {
+  id : SAGE
   os: "Debian 13 (Trixie)",
-  uptime: "18 years, 9 months", // Calculated from birth? Nice.
-  kernel: "CS Student @ India",
+  uptime: "18 years",
+  route : "CS Student @ India",
   ide: ["VS Code", "Vim", "PyCharm"],
-  
-  stack: {
+  };
+  const stack =  {
     languages: ["C|C++", "JavaScript", "Python", "HTML | CSS"],
     frontend:  ["React", "Tailwind", "JavaScript (Basics)"],
     backend:   ["MongoDB", "Node.js (Basics)", "FastAPI],
     tools:     ["Daisy UI", "GitHub", "Postman"]
-  },
+  };
 
-  contact: {
+  const contact =  {
     email: "  -.-   ",
     x: "@SAGE@7788"
-  },
+  };
 
-  stats: {
+  const gh status =  {
     repos: 12,
     stars: 5,
     commits: "150+"
-  }
-};
+  };
 
-console.log(`Hello! I'm currently trying to learn fullstack for now.`);
 ```
 
 ## Projects 
