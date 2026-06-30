@@ -2,7 +2,7 @@
 const developer = {
   id : "SAGE",
   os: "Debian 13 (Trixie)",
-  uptime: "18 years",
+  uptime: "19 years",
   route : "CS Student @ India",
   ide: ["VS Code", "Vim", "PyCharm"],
   };
@@ -14,14 +14,12 @@ const developer = {
   };
 
   const contact =  {
-    email: "  -.-   ",
-    x: "@SAGE@7788"
+    "the platform that u found my page on."
   };
 
   const gh status =  {
-    repos: 12,
-    stars: 5,
-    commits: "200+"
+    repos: 15,
+    commits: "250+"
   };
 
 ```
@@ -36,6 +34,11 @@ const developer = {
 - ### SOULDEX
    Git repo - [Souldex](https://github.com/SAGEisheree/souldex)
    
-   An app which lets you find your personality using AI based on a quiz and reveals your strengths and weakness to improve yourself.
-
+   An site which lets you find your personality using AI based on a quiz and reveals your strengths and weakness to improve yourself.
+  
+- ### Art Sheriff
+   Git repo - [Art Sheriff](https://github.com/SAGEisheree/art-sheriff)
+  
+   Protects images of digital art with invisible watermark built using Least significant bit concept where the bits of color pixels are slightly decreased.
+   
 ---
