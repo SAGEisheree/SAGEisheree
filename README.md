@@ -3,8 +3,9 @@ const developer = {
   id : "SAGE",
   os: "Debian 13 (Trixie)",
   uptime: "19 years",
-  route : "CS Student @ India",
-  ide: ["VS Code", "Vim", "PyCharm"],
+  path : "CS Student @ India",
+  destination : "somewhere peacefull"
+  ide: ["VS Code", "Vim", "Notepad"],
   };
   const stack =  {
     languages: ["C|C++", "JavaScript", "Python", "HTML | CSS"],
@@ -14,30 +15,27 @@ const developer = {
   };
 
   const contact =  {
-    "the platform that u found my page on."
+    "the same platform that u found my profile on ."
   };
 
   const gh status =  {
-    repos: 15,
-    commits: "250+"
+    repos: 18,
+    commits: "270+"
   };
 
 ```
 
 ## Projects 
 
- - ### DAYDEX
-   Git repo - [Daydex](https://github.com/SAGEisheree/daydex)
+ - ## [Daydex](https://github.com/SAGEisheree/daydex)
    
    I couldnt find any simple thing to store JOURNAL(kind of diary) so i made one. You can assign colors to days on calandar according to mood and add some text too.
 
-- ### SOULDEX
-   Git repo - [Souldex](https://github.com/SAGEisheree/souldex)
+- ## [Souldex](https://github.com/SAGEisheree/souldex)
    
-   An site which lets you find your personality using AI based on a quiz and reveals your strengths and weakness to improve yourself.
+   An site which lets you find your personality using AI based on a quiz and reveals your strengths and weakness to improve yourself.Really fun.
   
-- ### Art Sheriff
-   Git repo - [Art Sheriff](https://github.com/SAGEisheree/art-sheriff)
+- ## [Art Sheriff](https://github.com/SAGEisheree/art-sheriff)
   
    Protects images of digital art with invisible watermark built using Least significant bit concept where the bits of color pixels are slightly decreased.
    
