@@ -1,29 +1,5 @@
-```javascript
-const developer = {
-  id : "SAGE",
-  os: "Debian 13 (Trixie)",
-  uptime: "19 years",
-  path : "CS Student @ India",
-  destination : "somewhere peacefull"
-  ide: ["VS Code", "Vim", "Notepad"],
-  };
-  const stack =  {
-    languages: ["C|C++", "JavaScript", "Python", "HTML | CSS"],
-    frontend:  ["React", "Tailwind", "Next JS"],
-    backend:   ["MongoDB", "Node.js (Basics)", "FastAPI"],
-    tools:     ["Daisy UI", "GitHub", "Postman", "Codex" , "Claude"]
-  };
+<img width="1758" height="880" alt="Screenshot_20260719_224653" src="https://github.com/user-attachments/assets/2ec0200f-56eb-4b3a-8005-2a19fa3d72fe" />
 
-  const contact =  {
-    "the same platform that u found my profile on ."
-  };
-
-  const gh status =  {
-    repos: 18,
-    commits: "270+"
-  };
-
-```
 
 ## Projects 
 
